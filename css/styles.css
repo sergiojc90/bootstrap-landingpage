@@ -2,3 +2,8 @@
     --news-red:#f72210;
     --news-yellow:#ffe400;
 }
+
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: 0.9;
+}
