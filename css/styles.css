@@ -35,4 +35,10 @@
     height: 100%;
 }
 
-.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-36 { 
+    font-size: 36px;
+}
+
+footer{
+    background: rgba(1, 68, 139, 0.9);
+}
